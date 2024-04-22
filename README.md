@@ -5,8 +5,8 @@ Welcome to the UK Trade Analysis project repository! This project explores the i
 
 ## Project Structure
 This repository contains the following components:
-- **dashboard.jpg**: Snapshot of dashboard.
-- **Dashboard.mp4**: Video of interactive dashboard.
+- **Dashboard.jpg**: Snapshot of dashboard.
+- **Dashboard.mkv**: Video of interactive dashboard.
 - **Dashboard.ppt**: Powerpoint presentation of project.
 
 ## Feedback and Contributions
